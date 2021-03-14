@@ -19,9 +19,9 @@ Entonces tenemos rectas importantes que son una resistencia dinámica también i
 
 ## TODO
 
-[X] Carga de datos.
-[X] Ordenar datos por tiempo.
-[ ] Convertir a escala logaritmica.
+- [x] Carga de datos.
+- [x] Ordenar datos por tiempo.
+- [ ] Convertir a escala logaritmica.
 
 
 
