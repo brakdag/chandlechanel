@@ -1,0 +1,28 @@
+{
+  "name": "chandlechanel",
+  "version": "1.0.0",
+  "description": "getPointsRelevants form list stock data",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brakdag/chandlechanel.git"
+  },
+  "keywords": [
+    "stocks",
+    "analisis"
+  ],
+  "author": "brakdag@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brakdag/chandlechanel/issues"
+  },
+  "homepage": "https://github.com/brakdag/chandlechanel#readme"
+}
