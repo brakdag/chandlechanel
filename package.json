@@ -9,7 +9,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "mocha ./test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/brakdag/chandlechanel#readme",
   "dependencies": {
+    "mocha": "^8.3.2",
     "request": "^2.88.2"
   }
 }
