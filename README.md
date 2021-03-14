@@ -1,11 +1,12 @@
 # chandlechanel
+## Abstract
 Get segment channel points in stocks.
 
 Spanish Proyect. (Contenido en español disculpe)
 
 ![Imagen Ilustrativa](https://github.com/brakdag/chandlechanel/blob/main/images/image.png?raw=true)
 
-Análisis del problema.
+## Análisis del problema.
 
 Poder encontrar rectas que sean resistencias dinámicas de forma automática es una buena herramienta,
 para poder determinarlas, es mejor hacerla en un entorno reducido de datos, o una ventana de análisis de datos.
@@ -15,6 +16,12 @@ Cada uno de estos puntos donde tocan rectas los llamaremos pivot, se supone que 
 Como el conjunto de rectas tienen diferentes importancias, hay que hacer una categorización de las rectas, según importancia.
 
 Entonces tenemos rectas importantes que son una resistencia dinámica también importante en el mercado y rectas menos importantes que han sido resistencias dinámicas rotas anterior o posterior.
+
+## TODO
+
+[X] Carga de datos.
+[X] Ordenar datos por tiempo.
+[ ] Convertir a escala logaritmica.
 
 
 
