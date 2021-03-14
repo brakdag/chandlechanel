@@ -27,5 +27,12 @@ Entonces tenemos rectas importantes que son una resistencia dinámica también i
 - [ ] Obtener proyección nueva rueda en base a pivote.
 - [ ] Categorizar los segmetos.
 
+## To Run
+
+```sh
+npm install
+npm test
+```
+
 
 
