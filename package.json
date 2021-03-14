@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/brakdag/chandlechanel/issues"
   },
-  "homepage": "https://github.com/brakdag/chandlechanel#readme"
+  "homepage": "https://github.com/brakdag/chandlechanel#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
 }
