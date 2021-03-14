@@ -21,8 +21,11 @@ Entonces tenemos rectas importantes que son una resistencia dinámica también i
 
 - [x] Carga de datos.
 - [x] Ordenar datos por tiempo.
+- [ ] Obtener lista de máximos y mínimos.
 - [ ] Convertir a escala logaritmica.
-
+- [ ] Obtener lista de pivotes.
+- [ ] Obtener proyección nueva rueda en base a pivote.
+- [ ] Categorizar los segmetos.
 
 
 
