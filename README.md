@@ -6,6 +6,13 @@ Spanish Proyect. (Contenido en español disculpe)
 
 ![Imagen Ilustrativa](https://github.com/brakdag/chandlechanel/blob/main/images/image.png?raw=true)
 
+## Install.
+
+```sh
+npm install
+npm test
+```
+
 ## Análisis del problema.
 
 Poder encontrar rectas que sean resistencias dinámicas de forma automática es una buena herramienta,
@@ -27,12 +34,7 @@ Entonces tenemos rectas importantes que son una resistencia dinámica también i
 - [ ] Obtener proyección nueva rueda en base a pivote.
 - [ ] Categorizar los segmetos.
 
-## To Run
 
-```sh
-npm install
-npm test
-```
 
 
 
